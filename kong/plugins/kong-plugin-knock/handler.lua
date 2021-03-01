@@ -43,4 +43,4 @@ function knockHandler:header_filter(conf)
   
 end
 
-return EchoHandler
+return knockHandler
